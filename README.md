@@ -1,4 +1,3 @@
-"""
 # 📈 Real-Time Market Data API + Caching System
 
 ## 🚀 Overview
@@ -51,5 +50,3 @@ GET /stock/bitcoin
 - Kafka integration
 - Distributed rate limiting
 - Docker deployment
-
-"""
